@@ -1,6 +1,6 @@
-(defproject wharf "0.2.0-SNAPSHOT"
+(defproject thinktopic/wharf "0.2.0"
   :description "A library for transforming map keys."
-  :url "https://github.com/jeremyheiler/wharf"
+  :url "https://github.com/thinktopic/wharf"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :profiles {:dev {:dependencies [[org.clojure/clojure "1.6.0"]]}
